@@ -2,7 +2,7 @@
 
 Mark your files/folders with ★ for easier file search.
 
-## For more information
+## Other information
 
 * [My Website](http://equa.tory.tw1.ru)
 
