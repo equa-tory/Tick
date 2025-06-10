@@ -1,7 +1,13 @@
 {
+  "publisher": "Equa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/equa-tory/Tick"
+  },
   "name": "tick",
   "displayName": "Tick",
   "description": "",
+  "icon" : "images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
